@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Environs Movement</title>
   <!-- Stylesheet-->
-  <link rel="stylesheet" href="stylesheet.css" />
+  <link rel="stylesheet" href="css/stylesheet.css"/>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
@@ -19,11 +19,11 @@
     <div class="row">
         <div class="col-md-4 col-md-offset-7">
             <div class="panel panel-default">
-                <div class="panel-heading"> 
+                <div class="panel-heading">
 					<strong class="">Login</strong>
 				</div>
                 <div class="panel-body">
-                    <form class="form-horizontal" role="form">
+                    <form class="form-horizontal" role="form" method="post">
                         <div class="form-group">
                             <label for="inputEmail3" class="col-sm-3 control-label">Email</label>
                             <div class="col-sm-9">
